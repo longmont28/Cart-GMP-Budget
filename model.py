@@ -4,9 +4,9 @@ Unquoted costs cannot be interpreted as free or as an approved total.
 """
 import csv,json,math
 from pathlib import Path
-ROOT=Path(__file__).resolve().parents[1]
+ROOT=Path(__file__).resolve().parent
 def records(filename):
- with (ROOT/'data'/filename).open(newline='',encoding='utf-8') as f:return list(csv.DictReader(f))
+ with (ROOT/filename).open(newline='',encoding='utf-8') as f:return list(csv.DictReader(f))
 def binomial_tail(n,k,p):
  return sum(math.comb(n,i)*p**i*(1-p)**(n-i) for i in range(k,n+1))
 def minimum_enrollment(target,p,confidence=.9):
@@ -17,7 +17,7 @@ def minimum_enrollment(target,p,confidence=.9):
   if n>100000:raise RuntimeError('Target infeasible')
  return n
 def run(case='base'):
- a=json.loads((ROOT/'config/scenarios.json').read_text())[case]
+ a=json.loads((ROOT/'scenarios.json').read_text())[case]
  n=a['target_infused'];prob=math.prod(a[x] for x in ['eligible_rate','collection_rate','manufacturing_success','qc_release_rate','lymphodepletion_to_infusion'])
  confidence=a.get('target_confidence',.9)
  enrolled=minimum_enrollment(n,prob,confidence)

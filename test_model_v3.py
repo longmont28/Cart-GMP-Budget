@@ -1,6 +1,6 @@
 import sys,unittest
 from pathlib import Path
-sys.path.insert(0,str(Path(__file__).resolve().parents[1]/'src'))
+sys.path.insert(0,str(Path(__file__).resolve().parent))
 from model import run,minimum_enrollment,binomial_tail
 class TestModelV3(unittest.TestCase):
  def test_assurance(self):

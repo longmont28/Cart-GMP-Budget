@@ -1,6 +1,6 @@
 import unittest,sys
 from pathlib import Path
-sys.path.insert(0,str(Path(__file__).resolve().parents[1]/'src'))
+sys.path.insert(0,str(Path(__file__).resolve().parent))
 from model import run
 class VectorPolicy(unittest.TestCase):
  def test_single_construct_and_planned_lot(self):
