@@ -1,0 +1,16 @@
+assay_id,wbs,assay,dev_hours,validation_hours,routine_hours,staff_sek_per_hour,kit_sek_per_run,consumables_sek_per_run,runs_per_unit,driver,evidence_status
+A01,V05,Vector identity,0,0,0,0,0,0,1,vector_attempts,UNQUOTED
+A02,V05,Vector functional titer,0,0,0,0,0,0,1,vector_attempts,UNQUOTED
+A03,V05,Replication competent retrovirus,0,0,0,0,0,0,1,vector_attempts,UNQUOTED
+A04,V05,Vector sterility and mycoplasma,0,0,0,0,0,0,1,vector_attempts,UNQUOTED
+A05,V05,Vector endotoxin and impurities,0,0,0,0,0,0,1,vector_attempts,UNQUOTED
+A06,V05,Vector stability,0,0,0,0,0,0,1,vector_attempts,UNQUOTED
+A07,M02,Incoming cell count and viability,0,0,0,0,0,0,1,starts,UNQUOTED
+A08,M05,CAR expression flow,0,0,0,0,0,0,1,manufactured,UNQUOTED
+A09,M05,Identity and phenotype,0,0,0,0,0,0,1,manufactured,UNQUOTED
+A10,M05,CAR-T potency,0,0,0,0,0,0,1,manufactured,UNQUOTED
+A11,M05,Sterility and mycoplasma,0,0,0,0,0,0,1,manufactured,UNQUOTED
+A12,M05,CAR-T endotoxin,0,0,0,0,0,0,1,manufactured,UNQUOTED
+A13,M05,VCN qPCR or ddPCR,0,0,0,0,0,0,1,manufactured,UNQUOTED
+A14,M06,Post-thaw viability,0,0,0,0,0,0,1,released,UNQUOTED
+A15,C05,Clinical follow-up labs,0,0,0,0,0,0,1,infused,UNQUOTED

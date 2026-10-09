@@ -1,0 +1,47 @@
+{
+  "low": {
+    "target_infused": 12,
+    "eligible_rate": 0.95,
+    "collection_rate": 0.98,
+    "manufacturing_success": 0.95,
+    "qc_release_rate": 0.97,
+    "lymphodepletion_to_infusion": 0.99,
+    "contingency": 0.08,
+    "target_confidence": 0.9,
+    "vector_construct_count": 1,
+    "planned_gmp_vector_lots": 1,
+    "vector_extra_lots_authorized": 0,
+    "vector_capacity_per_released_lot": 16,
+    "vector_lot_release_rate": 0.95
+  },
+  "base": {
+    "target_infused": 12,
+    "eligible_rate": 0.9,
+    "collection_rate": 0.95,
+    "manufacturing_success": 0.92,
+    "qc_release_rate": 0.95,
+    "lymphodepletion_to_infusion": 0.98,
+    "contingency": 0.12,
+    "target_confidence": 0.9,
+    "vector_construct_count": 1,
+    "planned_gmp_vector_lots": 1,
+    "vector_extra_lots_authorized": 0,
+    "vector_capacity_per_released_lot": 12,
+    "vector_lot_release_rate": 0.9
+  },
+  "high": {
+    "target_infused": 12,
+    "eligible_rate": 0.85,
+    "collection_rate": 0.9,
+    "manufacturing_success": 0.85,
+    "qc_release_rate": 0.9,
+    "lymphodepletion_to_infusion": 0.95,
+    "contingency": 0.18,
+    "target_confidence": 0.9,
+    "vector_construct_count": 1,
+    "planned_gmp_vector_lots": 1,
+    "vector_extra_lots_authorized": 0,
+    "vector_capacity_per_released_lot": 8,
+    "vector_lot_release_rate": 0.8
+  }
+}
