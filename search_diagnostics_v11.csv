@@ -1,0 +1,137 @@
+Item ID,Query,URL,Fetch result
+CT-001,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-002,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-003,ACD anticoagulant price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-004,Apheresis product transport price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-005,Cytiva Sepax C-Pro processing charge price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-006,Ficoll Premium price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-007,B. Braun 0.9% NaCl price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-008,Takeda Pharma HSA price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-009,Pulmozyme price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-010,Sepax disposable set price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-011,Falcon 352075 225 mL centrifuge flask price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-012,BD BD Multitest 6-color TBNK price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-013,BD BD Trucount beads price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-014,Flow cytometry acquisition price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-015,Miltenyi 200-073-613 CliniMACS Prodigy TS 520 price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-016,Miltenyi 170-076-306 TexMACS GMP medium price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-017,Miltenyi 170-076-111 MACS GMP IL-7 price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-018,Miltenyi 170-076-114 MACS GMP IL-15 price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-019,Miltenyi 200-076-202 MACS GMP T cell TransAct price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-020,Miltenyi 170-076-165 MACS GMP Vectofusin-1 price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-021,,,RFQ_SERVICE | Custom GMP service / vector | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-022,B. Braun WFI price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-023,B. Braun 0.9% NaCl for injection price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-024,Takeda Pharma Human serum albumin price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-025,Miltenyi 130-018-701 Luer/spike interconnector price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-026,Aseptic Group VECU-291124-01_S Luer/MPC adapter price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-027,Miltenyi 170-076-609 Triple sampling adapter price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-028,Terumo BB*T015CM Transfer bag 150 mL price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-029,Corning 8388 Sterile flask 125 mL price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-030,Terumo Syringe 2.5 mL price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-031,Terumo Syringe 5 mL price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-032,Terumo Syringe 10 mL price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-033,Terumo Syringe 50 mL price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-034,Medicarrier/Albiox N05A18B 18G blunt fill needle price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-035,TPP 391015 15 mL centrifuge tube price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-036,TPP 391050 / 91550 50 mL centrifuge tube price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-037,TPP 391115 15 mL endotoxin tube price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-038,TPP 394005 5 mL serological pipette price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-039,TPP 394010 10 mL serological pipette price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-040,TPP 394024 / 394525 25 mL serological pipette price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-041,TPP 394550 50 mL serological pipette price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-042,TPP 399157 150 mL sterile flask price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-043,TPP 399257 250 mL sterile flask price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-044,TPP 399507 500 mL sterile flask price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-045,TPP 389020 1.5 mL cryovial price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-046,TPP 389050 4.5 mL cryovial price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-047,Thermo Fisher 2079E Filtered tips 100-1000 uL price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-048,Thermo Fisher 2065E Filtered tips 10-100 uL price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-049,VWR 612-1963 Pipette filler filter price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-050,ChemoMetec 941-0012 Via1 cassette price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-051,Terumo SCW017 Sterile welder wafers price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-052,NC-200 cell count and viability Day 3 price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-053,NC-200 cell count and viability Day 7 / Day 13 price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-054,Flow cytometry Day 3 price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-055,Flow cytometry Day 7 / Day 13 price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-056,WAK-Chemie WAK-DMSO10 DMSO price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-057,Macopharma GSR 1000AU Cryobag 10-25 mL price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-058,Macopharma GSR 2001AU Cryobag 15-85 mL price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-059,Macopharma GSR 7001AU Cryobag 40-160 mL price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-060,EVA cryopreservation bag price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-061,Cryobag protective cassette price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-062,Styrofoam protective shipping box price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-063,Dry shipper transport <= -150 C price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-064,Appearance / integrity visual inspection price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-065,Viable cell count NC-200 price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-066,Viability NC-200 price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-067,bioMerieux 259791 / 410851 BacT/Alert aerobic bottle price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-068,bioMerieux 259793 / 410852 BacT/Alert anaerobic bottle price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-069,Substrat MIK2742-9 Blood agar culture plate price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-070,Labor LS SE & Co. KG Mycoplasma PCR price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-071,Endosafe nexgen PT Endotoxin price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-072,Flow cytometry CAR20 transgene expression price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-073,Flow cytometry Identity CD3 price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-074,Flow cytometry Identity CD56 NK/NKT price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-075,Vector copy number ddPCR price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-076,ALS Mikrolab Sterility - culture supernatant price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-077,ALS Mikrolab Sterility - DP price EUR SEK,,SEARCH_CATALOG | Catalog product candidate (grade and pack verification needed) | result_count=0 | search_error=SEARCH_DISABLED
+CT-078,Potency - target-cell cytotoxicity price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-079,Appearance and integrity stability price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-080,Post-thaw viable cell count / viability price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-081,CAR expression and identity stability price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-082,Potency stability price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-083,VCN stability as required price EUR SEK,,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-084,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-085,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-086,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-087,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-088,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-089,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-090,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-091,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-092,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-093,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-094,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-095,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-096,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-097,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-098,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-099,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-100,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-101,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-102,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-103,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-104,,,RFQ_CLINICAL | Patient/donor safety: not final drug-product release testing | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-105,,,RFQ_CLINICAL | Patient/donor safety: not final drug-product release testing | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-106,,,RFQ_CLINICAL | Patient/donor safety: not final drug-product release testing | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-107,,,RFQ_CLINICAL | Patient/donor safety: not final drug-product release testing | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-108,,,RFQ_CLINICAL | Patient/donor safety: not final drug-product release testing | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-109,,,RFQ_CLINICAL | Patient/donor safety: not final drug-product release testing | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-110,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-111,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-112,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-113,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-114,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-115,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-116,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-117,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-118,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-119,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-120,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-121,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-122,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-123,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-124,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-125,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-126,"Prodigy, Sepax and QC instrument maintenance price EUR SEK",,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-127,"Calibration, qualification and requalification price EUR SEK",,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-128,"Freezer alarms, LN2 and temperature monitoring price EUR SEK",,RFQ_OR_SEARCH | Unspecified product; obtain pack/grade and vendor before accepting price | result_count=0 | search_error=SEARCH_DISABLED
+CT-129,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-130,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-131,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-132,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-133,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-134,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-135,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE
+CT-136,,,RFQ_SERVICE | Non-catalog service / contract / staff cost | result_count=0 | search_error=NOT_SEARCHED_SERVICE

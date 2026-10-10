@@ -1,0 +1,9 @@
+{
+  "successful_infusions": 12,
+  "planning_confidence": 0.9,
+  "collection_to_start": 1.0,
+  "release_to_infusion": 1.0,
+  "vector_lots": 1,
+  "program_years": 1,
+  "program_months": 12
+}
