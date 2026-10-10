@@ -1,0 +1,137 @@
+Stage,Cost category,Item / test,Vendor,SKU / catalog,Qty per event,Unit,Pack size,Unit price SEK,Quote source URL,Quote status,Comment / sample / timing,Cost driver,Phase
+01 Screening,Clinical,Screening / eligibility service,,,1,screened patient,,,,UNQUOTED,Eligibility and clinical review; infectious-disease screening is itemized separately below to avoid double counting.,per screened,
+02 Leukapheresis,Clinical,Leukapheresis procedure,,,1,collection,,,,UNQUOTED,Hospital service fee,per collection,
+02 Leukapheresis,Material,ACD anticoagulant,,,,bag,,,,UNQUOTED,Actual volume per collection TBD,per collection,
+02 Leukapheresis,Logistics,Apheresis product transport,,,1,shipment,,,,UNQUOTED,Temperature and time constraints TBD,per collection,
+03 PBMC Isolation,Equipment service,Sepax C-Pro processing charge,Cytiva,,1,run,,,,UNQUOTED,Only if not included in facility fee,per collection,
+03 PBMC Isolation,Material,Ficoll Premium,,,,bottle,,,,UNQUOTED,Confirm GMP grade and exact volume,per collection,
+03 PBMC Isolation,Material,0.9% NaCl,B. Braun,,1,unit,,,,UNQUOTED,Confirm GMP grade and exact volume,per collection,
+03 PBMC Isolation,Material,HSA,Takeda Pharma,,,vial,,,,UNQUOTED,Confirm GMP grade and exact volume,per collection,
+03 PBMC Isolation,Material,Pulmozyme,,,,vial,,,,UNQUOTED,Confirm GMP grade and exact volume,per collection,
+03 PBMC Isolation,Material,Sepax disposable set,,,1,set,,,,UNQUOTED,Confirm GMP grade and exact volume,per collection,
+03 PBMC Isolation,Material,225 mL centrifuge flask,Falcon,352075,2,piece,,,,UNQUOTED,Confirm GMP grade and exact volume,per collection,
+04 Incoming QC,QC,BD Multitest 6-color TBNK,BD,,1,test,,,,UNQUOTED,Incoming PBMC composition,per collection,
+04 Incoming QC,QC,BD Trucount beads,BD,,1,test,,,,UNQUOTED,Incoming PBMC composition,per collection,
+04 Incoming QC,QC,Flow cytometry acquisition,,,1,test,,,,UNQUOTED,Incoming PBMC composition,per collection,
+05 CAR-T Manufacturing,Material,CliniMACS Prodigy TS 520,Miltenyi,200-073-613,1,set,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Material,TexMACS GMP medium,Miltenyi,170-076-306,,pack,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Material,MACS GMP IL-7,Miltenyi,170-076-111,,vial,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Material,MACS GMP IL-15,Miltenyi,170-076-114,,vial,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Material,MACS GMP T cell TransAct,Miltenyi,200-076-202,1,pack,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Material,MACS GMP Vectofusin-1,Miltenyi,170-076-165,1,pack,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Material,Retroviral vector supernatant RV(CAR20NAP),BioNTech,HE-AM083,,mL,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Material,WFI,B. Braun,,1,unit,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Material,0.9% NaCl for injection,B. Braun,,1,unit,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Material,Human serum albumin,Takeda Pharma,,5,unit,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Material,Luer/spike interconnector,Miltenyi,130-018-701,7,piece,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Material,Luer/MPC adapter,Aseptic Group,VECU-291124-01_S,1,piece,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Material,Triple sampling adapter,Miltenyi,170-076-609,1,piece,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Material,Transfer bag 150 mL,Terumo,BB*T015CM,1,bag,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Material,Sterile flask 125 mL,Corning,8388,1,piece,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Material,Syringe 2.5 mL,Terumo,,7,piece,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Material,Syringe 5 mL,Terumo,,2,piece,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Material,Syringe 10 mL,Terumo,,2,piece,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Material,Syringe 50 mL,Terumo,,12,piece,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Material,18G blunt fill needle,Medicarrier/Albiox,N05A18B,8,piece,,,,UNQUOTED,"5-7 days typical; extended 8-13 days; confirm lot, quantity and vendor quote",per start,
+05 CAR-T Manufacturing,Consumable,15 mL centrifuge tube,TPP,391015,6,piece / pack,,,,UNQUOTED,Source count may mean packs rather than pieces; confirm,per start,
+05 CAR-T Manufacturing,Consumable,50 mL centrifuge tube,TPP,391050 / 91550,6,piece / pack,,,,UNQUOTED,Source count may mean packs rather than pieces; confirm,per start,
+05 CAR-T Manufacturing,Consumable,15 mL endotoxin tube,TPP,391115,1,piece / pack,,,,UNQUOTED,Source count may mean packs rather than pieces; confirm,per start,
+05 CAR-T Manufacturing,Consumable,5 mL serological pipette,TPP,394005,3,piece / pack,,,,UNQUOTED,Source count may mean packs rather than pieces; confirm,per start,
+05 CAR-T Manufacturing,Consumable,10 mL serological pipette,TPP,394010,6,piece / pack,,,,UNQUOTED,Source count may mean packs rather than pieces; confirm,per start,
+05 CAR-T Manufacturing,Consumable,25 mL serological pipette,TPP,394024 / 394525,6,piece / pack,,,,UNQUOTED,Source count may mean packs rather than pieces; confirm,per start,
+05 CAR-T Manufacturing,Consumable,50 mL serological pipette,TPP,394550,4,piece / pack,,,,UNQUOTED,Source count may mean packs rather than pieces; confirm,per start,
+05 CAR-T Manufacturing,Consumable,150 mL sterile flask,TPP,399157,6,piece / pack,,,,UNQUOTED,Source count may mean packs rather than pieces; confirm,per start,
+05 CAR-T Manufacturing,Consumable,250 mL sterile flask,TPP,399257,4,piece / pack,,,,UNQUOTED,Source count may mean packs rather than pieces; confirm,per start,
+05 CAR-T Manufacturing,Consumable,500 mL sterile flask,TPP,399507,4,piece / pack,,,,UNQUOTED,Source count may mean packs rather than pieces; confirm,per start,
+05 CAR-T Manufacturing,Consumable,1.5 mL cryovial,TPP,389020,3,piece / pack,,,,UNQUOTED,Source count may mean packs rather than pieces; confirm,per start,
+05 CAR-T Manufacturing,Consumable,4.5 mL cryovial,TPP,389050,1,piece / pack,,,,UNQUOTED,Source count may mean packs rather than pieces; confirm,per start,
+05 CAR-T Manufacturing,Consumable,Filtered tips 100-1000 uL,Thermo Fisher,2079E,1,box / bag,,,,UNQUOTED,Confirm package size and quantity,per start,
+05 CAR-T Manufacturing,Consumable,Filtered tips 10-100 uL,Thermo Fisher,2065E,1,box / bag,,,,UNQUOTED,Confirm package size and quantity,per start,
+05 CAR-T Manufacturing,Consumable,Pipette filler filter,VWR,612-1963,1,box / bag,,,,UNQUOTED,Confirm package size and quantity,per start,
+05 CAR-T Manufacturing,Consumable,Via1 cassette,ChemoMetec,941-0012,2,box / bag,,,,UNQUOTED,Confirm package size and quantity,per start,
+05 CAR-T Manufacturing,Consumable,Sterile welder wafers,Terumo,SCW017,1,box / bag,,,,UNQUOTED,Confirm package size and quantity,per start,
+06 In-Process QC,QC,NC-200 cell count and viability Day 3,,,1,test,,,,UNQUOTED,Additional sampling for extended manufacturing,per start,
+06 In-Process QC,QC,NC-200 cell count and viability Day 7 / Day 13,,,1,test,,,,UNQUOTED,Additional sampling for extended manufacturing,per start,
+06 In-Process QC,QC,Flow cytometry Day 3,,,1,test,,,,UNQUOTED,Additional sampling for extended manufacturing,per start,
+06 In-Process QC,QC,Flow cytometry Day 7 / Day 13,,,1,test,,,,UNQUOTED,Additional sampling for extended manufacturing,per start,
+07 Harvest & Cryo,Material,DMSO,WAK-Chemie,WAK-DMSO10,6,piece / pack,,,,UNQUOTED,Select correct bag size; do not sum mutually exclusive alternatives,per completed,
+07 Harvest & Cryo,Material,Cryobag 10-25 mL,Macopharma,GSR 1000AU,,piece / pack,,,,UNQUOTED,Select correct bag size; do not sum mutually exclusive alternatives,per completed,
+07 Harvest & Cryo,Material,Cryobag 15-85 mL,Macopharma,GSR 2001AU,,piece / pack,,,,UNQUOTED,Select correct bag size; do not sum mutually exclusive alternatives,per completed,
+07 Harvest & Cryo,Material,Cryobag 40-160 mL,Macopharma,GSR 7001AU,,piece / pack,,,,UNQUOTED,Select correct bag size; do not sum mutually exclusive alternatives,per completed,
+07 Harvest & Cryo,Material,EVA cryopreservation bag,,,,piece / pack,,,,UNQUOTED,Select correct bag size; do not sum mutually exclusive alternatives,per completed,
+07 Harvest & Cryo,Material,Cryobag protective cassette,,,,piece / pack,,,,UNQUOTED,Select correct bag size; do not sum mutually exclusive alternatives,per completed,
+07 Harvest & Cryo,Material,Styrofoam protective shipping box,,,1,piece / pack,,,,UNQUOTED,Select correct bag size; do not sum mutually exclusive alternatives,per completed,
+08 Shipping,Logistics,Dry shipper transport <= -150 C,,,1,shipment,,,,UNQUOTED,"Include qualification, monitoring, rental and return",per released,
+09 Release QC,QC,Appearance / integrity visual inspection,,,1,test,,,,UNQUOTED,Formulated DP pre-freeze,per completed,
+09 Release QC,QC,Viable cell count NC-200,,,1,test,,,,UNQUOTED,Thawed DP QC sample,per completed,
+09 Release QC,QC,Viability NC-200,,,1,test,,,,UNQUOTED,Thawed DP QC sample,per completed,
+09 Release QC,QC,BacT/Alert aerobic bottle,bioMerieux,259791 / 410851,1,test,,,,UNQUOTED,Day 7/13 supernatant; 8 mL,per completed,
+09 Release QC,QC,BacT/Alert anaerobic bottle,bioMerieux,259793 / 410852,1,test,,,,UNQUOTED,Day 7/13 supernatant; 8 mL,per completed,
+09 Release QC,QC,Blood agar culture plate,Substrat,MIK2742-9,1,test,,,,UNQUOTED,Day 7/13 supernatant 100 uL,per completed,
+09 Release QC,QC,Mycoplasma PCR,Labor LS SE & Co. KG,,1,test,,,,UNQUOTED,Ph Eur 2.6.7; 1.1e6 cells in 1.1 mL,per completed,
+09 Release QC,QC,Endotoxin,Endosafe nexgen PT,,1,test,,,,UNQUOTED,Ph Eur 2.6.14; DS Day 8/14,per completed,
+09 Release QC,QC,CAR20 transgene expression,Flow cytometry,,1,test,,,,UNQUOTED,Day 7/13 and thawed DP,per completed,
+09 Release QC,QC,Identity CD3,Flow cytometry,,1,test,,,,UNQUOTED,Day 7/13 and thawed DP,per completed,
+09 Release QC,QC,Identity CD56 NK/NKT,Flow cytometry,,1,test,,,,UNQUOTED,Day 7/13 and thawed DP,per completed,
+09 Release QC,QC,Vector copy number ddPCR,,,1,test,,,,UNQUOTED,Day 8/14 DS pellet; baseline negative control,per completed,
+10 Post-Release QC,QC outsourced,Sterility - culture supernatant,ALS Mikrolab,,1,test,,,,UNQUOTED,Ph Eur 2.6.1 direct inoculation; 2 x 30 mL,per released,
+10 Post-Release QC,QC outsourced,Sterility - DP,ALS Mikrolab,,1,test,,,,UNQUOTED,Ph Eur 2.6.1 direct inoculation; 2 x 1 mL,per released,
+10 Post-Release QC,QC outsourced,Potency - target-cell cytotoxicity,,,1,test,,,,UNQUOTED,Cryopreserved/thawed DP; dose-dependent killing,per released,
+11 Stability,QC stability,Appearance and integrity stability,,,,timepoint,,,,UNQUOTED,Stability schedule and test frequency TBD,per released,
+11 Stability,QC stability,Post-thaw viable cell count / viability,,,,timepoint,,,,UNQUOTED,Stability schedule and test frequency TBD,per released,
+11 Stability,QC stability,CAR expression and identity stability,,,,timepoint,,,,UNQUOTED,Stability schedule and test frequency TBD,per released,
+11 Stability,QC stability,Potency stability,,,,timepoint,,,,UNQUOTED,Stability schedule and test frequency TBD,per released,
+11 Stability,QC stability,VCN stability as required,,,,timepoint,,,,UNQUOTED,Stability schedule and test frequency TBD,per released,
+12 Infusion,Clinical,Lymphodepletion chemotherapy,,,1,patient,,,,UNQUOTED,Distinct from infused count,per lymphodepleted,
+12 Infusion,Clinical,CAR-T infusion and acute monitoring,,,1,patient,,,,UNQUOTED,,per infused,
+13 Follow-up,Clinical,Clinical follow-up / adverse event monitoring,,,1,patient,,,,UNQUOTED,CRS/ICANS/ICU should be separately quoted,per infused,
+00 Vector CMC,Project / vector,GMP vector construct development / licensing,,,1,program / lot,,,,UNQUOTED,One common construct; one planned vector lot; confirm lot sufficiency,per program,
+00 Vector CMC,Project / vector,GMP vector CDMO technology transfer,,,1,program / lot,,,,UNQUOTED,One common construct; one planned vector lot; confirm lot sufficiency,per program,
+00 Vector CMC,Project / vector,GMP vector engineering batch,,,1,program / lot,,,,UNQUOTED,One common construct; one planned vector lot; confirm lot sufficiency,per program,
+00 Vector CMC,Project / vector,GMP vector manufacturing attempt,,,1,program / lot,,,,UNQUOTED,One common construct; one planned vector lot; confirm lot sufficiency,per vector lot,
+00 Vector CMC,Project / vector,GMP vector lot release QC,,,1,program / lot,,,,UNQUOTED,One common construct; one planned vector lot; confirm lot sufficiency,per vector lot,
+00 Vector CMC,Project / vector,Vector stability and storage,,,1,program / lot,,,,UNQUOTED,One common construct; one planned vector lot; confirm lot sufficiency,per program,
+14 Separate Overhead,Labor / facility / equipment,Operator manufacturing hours,,,,hours / month / year,,,,UNQUOTED,Do not double count vendor all-inclusive service fees,per start,
+14 Separate Overhead,Labor / facility / equipment,QC analyst hours,,,,hours / month / year,,,,UNQUOTED,Do not double count vendor all-inclusive service fees,per completed,
+14 Separate Overhead,Labor / facility / equipment,QA / QP batch review hours,,,,hours / month / year,,,,UNQUOTED,Do not double count vendor all-inclusive service fees,per released,
+14 Separate Overhead,Labor / facility / equipment,Process development staff hours,,,,hours / month / year,,,,UNQUOTED,Do not double count vendor all-inclusive service fees,per program,
+14 Separate Overhead,Labor / facility / equipment,Project coordination hours,,,,hours / month / year,,,,UNQUOTED,Do not double count vendor all-inclusive service fees,per program,
+14 Separate Overhead,Labor / facility / equipment,Grade 2 GMP laboratory maintenance / environmental monitoring,,,,hours / month / year,,,,UNQUOTED,Do not double count vendor all-inclusive service fees,per month,
+14 Separate Overhead,Labor / facility / equipment,Facility qualification and calibration,,,,hours / month / year,,,,UNQUOTED,Do not double count vendor all-inclusive service fees,per year,
+14 Separate Overhead,Labor / facility / equipment,Prodigy equipment service / maintenance,,,,hours / month / year,,,,UNQUOTED,Do not double count vendor all-inclusive service fees,per year,
+14 Separate Overhead,Labor / facility / equipment,Sepax C-Pro equipment service / maintenance,,,,hours / month / year,,,,UNQUOTED,Do not double count vendor all-inclusive service fees,per year,
+14 Separate Overhead,Labor / facility / equipment,NC-200 / flow / ddPCR instrument maintenance,,,,hours / month / year,,,,UNQUOTED,Do not double count vendor all-inclusive service fees,per year,
+14 Separate Overhead,Labor / facility / equipment,Cleanroom utilities and waste,,,,hours / month / year,,,,UNQUOTED,Do not double count vendor all-inclusive service fees,per month,
+09 Release QC,Release-associated donor/patient safety,Anti-HIV-1/2,,,1,service/test,,,,UNQUOTED,Donor/patient serology; not DP sterility; classify with QA; NOT final-product contamination test,per completed,Release-associated
+09 Release QC,Release-associated donor/patient safety,HBsAg,,,1,service/test,,,,UNQUOTED,Donor/patient HBV infection status; classify with QA; NOT final-product contamination test,per completed,Release-associated
+09 Release QC,Release-associated donor/patient safety,Anti-HBc,,,1,service/test,,,,UNQUOTED,Donor/patient HBV infection status; classify with QA; NOT final-product contamination test,per completed,Release-associated
+09 Release QC,Release-associated donor/patient safety,Anti-HCV,,,1,service/test,,,,UNQUOTED,Donor/patient HCV infection status; classify with QA; NOT final-product contamination test,per completed,Release-associated
+09 Release QC,Release-associated donor/patient safety,Syphilis antibodies IgM/IgG,,,1,service/test,,,,UNQUOTED,Donor/patient infection status; classify with QA; NOT final-product contamination test,per completed,Release-associated
+09 Release QC,Release-associated donor/patient safety,SARS-CoV-2,,,1,service/test,,,,UNQUOTED,Clinical/manufacturing policy dependent; classify with QA; NOT final-product contamination test,per completed,Release-associated
+15 Clinical Professionals,Clinical,PI / physician medical oversight,,,1,service/test,,,,UNQUOTED,"Protocol, patient eligibility, adverse event oversight; avoid duplicating hospital fee",per program,Separate cost
+15 Clinical Professionals,Clinical,Apheresis physician / nursing time,,,1,service/test,,,,UNQUOTED,Separate from bundled apheresis fee,per collection,Separate cost
+15 Clinical Professionals,Clinical,CAR-T infusion physician / nursing time,,,1,service/test,,,,UNQUOTED,Separate from bundled infusion fee,per infused,Separate cost
+15 Clinical Professionals,Clinical,Hospitalization / CRS / ICANS monitoring,,,1,service/test,,,,UNQUOTED,"Variable acuity; use expected utilization, not flat assumption",per infused,Separate cost
+15 Clinical Professionals,Clinical,Pharmacist / investigational product handling,,,1,service/test,,,,UNQUOTED,"Dispensing, chain of custody, thaw coordination",per infused,Separate cost
+16 Administration,Admin,Sponsor project management,,,1,service/test,,,,UNQUOTED,Study coordination and budget management,per program,Separate cost
+16 Administration,Admin,Clinical trial coordinator / data entry,,,1,service/test,,,,UNQUOTED,Screening and source documentation,per screened,Separate cost
+16 Administration,Admin,Regulatory submissions and ethics amendments,,,1,service/test,,,,UNQUOTED,"Competent authority, ethics, amendments",per program,Separate cost
+16 Administration,Admin,"Insurance, legal, contracting, privacy",,,1,service/test,,,,UNQUOTED,"Trial insurance, GDPR and contracts",per program,Separate cost
+16 Administration,Admin,"Monitoring, GCP audit and TMF archiving",,,1,service/test,,,,UNQUOTED,"Monitoring visits, CAPA, document retention",per program,Separate cost
+17 Training,Training,GMP operator qualification and aseptic training,,,1,service/test,,,,UNQUOTED,"Initial and refresher training, gowning qualification",per program,Separate cost
+17 Training,Training,CliniMACS Prodigy / Sepax vendor training,,,1,service/test,,,,UNQUOTED,Operator and service training,per program,Separate cost
+17 Training,Training,QC method training and competency,,,1,service/test,,,,UNQUOTED,"Flow, ddPCR, microbial methods",per program,Separate cost
+17 Training,Training,"GCP, biosafety and emergency response training",,,1,service/test,,,,UNQUOTED,Medical and manufacturing staff,per program,Separate cost
+18 Facility & Equipment,Facility,Grade 2 / Grade B GMP cleanroom upkeep,,,1,service/test,,,,UNQUOTED,"Confirm actual classified grade; cleaning, EM, utilities, HVAC",per program,Separate cost
+18 Facility & Equipment,Facility,Environmental monitoring / gowning consumables,,,1,service/test,,,,UNQUOTED,"Routine EM, media fills, cleaning supplies",per start,Separate cost
+18 Facility & Equipment,Equipment,"Prodigy, Sepax and QC instrument maintenance",,,1,service/test,,,,UNQUOTED,Service contracts and preventive maintenance,per program,Separate cost
+18 Facility & Equipment,Equipment,"Calibration, qualification and requalification",,,1,service/test,,,,UNQUOTED,"IQ/OQ/PQ, NC-200, QX200, flow and cold chain",per program,Separate cost
+18 Facility & Equipment,Equipment,"Freezer alarms, LN2 and temperature monitoring",,,1,service/test,,,,UNQUOTED,"24/7 alarms, backup storage",per program,Separate cost
+19 Other & Contingency,Misc,"Batch deviation, OOS and CAPA reserve",,,1,service/test,,,,UNQUOTED,Do not assume all events; use risk-based allowance,per program,Separate cost
+19 Other & Contingency,Misc,Failed batch disposal and biohazard waste,,,1,service/test,,,,UNQUOTED,Waste processing and chain of custody,per start,Separate cost
+19 Other & Contingency,Misc,Dry shipper validation and return logistics,,,1,service/test,,,,UNQUOTED,"Freight, qualification, insurance",per released,Separate cost
+19 Other & Contingency,Misc,Additional QC repeats / retesting allowance,,,1,service/test,,,,UNQUOTED,Triggered only where approved; avoid routine duplicate,per start,Separate cost
+19 Other & Contingency,Misc,Long-term sample and document storage,,,1,service/test,,,,UNQUOTED,Retain samples and records per protocol,per program,Separate cost
+19 Other & Contingency,Misc,Patient travel / accommodation reimbursement,,,1,service/test,,,,UNQUOTED,If sponsor covers,per infused,Separate cost
+19 Other & Contingency,Misc,"Translation, IT, software, access and licensing",,,1,service/test,,,,UNQUOTED,Electronic systems and cybersecurity,per program,Separate cost
+19 Other & Contingency,Misc,Contingency reserve (separate percentage),,,1,service/test,,,,UNQUOTED,Do not treat as vendor quote; enter only if not applied elsewhere,per program,Separate cost
